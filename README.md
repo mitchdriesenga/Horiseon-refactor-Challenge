@@ -27,4 +27,6 @@ Here is the link to the completed webpage
 
   (https://mitchdriesenga.github.io/Horiseon-refactor-Challenge/)
 
-  
+## Credits
+
+All code refactor done by Mitch Driesenga
